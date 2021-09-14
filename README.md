@@ -1,3 +1,3 @@
 # hello_world
 the test  repository
-it is a nicee code for satart
+it is a nicee code for start
